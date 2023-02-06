@@ -1,5 +1,8 @@
 # Overview
-# Repository list and description in alphabetical order:
+# Repository list and description in alphabetical order
+
+In addition a video that describes the installation and the workflow of AMR-Control can be found in this repository.
+
 
 ## AMRControl
 [Link to the repository: https://github.com/flexmill/AMRControl](https://github.com/flexmill/AMRControl)
@@ -7,7 +10,6 @@
 C# Code for operating the AMR through a Web-interface
 In this repository all code, that is needed to control the AMR via Web-interface is located.
 A detailled installation description can be found there.
-In addtion a video that describes the installation and the workflow can be found in this repository.
 
 ## CAD_CAM_Automatization
 [Link to the repository: https://github.com/flexmill/CAD_CAM_Automatization](https://github.com/flexmill/CAD_CAM_Automatization)
