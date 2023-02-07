@@ -14,8 +14,7 @@ A detailled installation description can be found there.
 ## CAD_CAM_Automatization
 [Link to the repository: https://github.com/flexmill/CAD_CAM_Automatization](https://github.com/flexmill/CAD_CAM_Automatization)
 
-Automatization of the CAD and CAM process to generate 3D models, drawings and NC code for machining automatically
-.....
+Automatization of the CAD and CAM process to generate 3D models, drawings and NC code for machining automatically. This software piece is not part of the developed ROSE-AP but developed within the DIH2 programme for the automatization of manufacturing and engineering prcesses in an agile manner. It could not be integrated in the ROSE-AP, because of licensed third party software (CATICA-V5), but the source code can be used for further development and if required configurations to parts of interest can be performed.
 
 ## Fiware-databroker-console
 [Link to the repository: https://github.com/flexmill/Fiware-databroker-console](https://github.com/flexmill/Fiware-databroker-console)
