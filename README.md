@@ -26,9 +26,7 @@ The needed SQL-Structures can be found here: [https://github.com/flexmill/Data-s
 
 ## fiware_connector_machiningcentre_tools
 [Link to the repository: https://github.com/flexmill/fiware_connector_machiningcentre_tools](https://github.com/flexmill/fiware_connector_machiningcentre_tools)
-
-Fiware connector to machining centres and specifically to index c200
-.....
+Connects to machining centres and ERP system as well as Tool Database Wintool to read machining data, work orders and tool data. It processes these data and sends ot top the Fiware Context Broker in standardized manner for further processing of subsequent software pieces to get performance data as well as the automation of the tool logistics and tool replacement based on the tool life data. The repository also contains artificial machining data.
 
 ## Data structures
 [Link to the repository: https://github.com/flexmill/Data-structures](https://github.com/flexmill/Data-structures)
