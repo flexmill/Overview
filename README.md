@@ -25,6 +25,9 @@ Automatization of the CAD and CAM process to generate 3D models, drawings and NC
 Reads performance-data from Fiware, parses it and stores raw and parsed data in a database for visualisation with Superset on RAMP
 In this repository the code, that retrieves performance-data from Fiware is located.
 The software is runnning in a console window and needs a SQL-compatible Database for storing the data.
+
+A detailled installation description can be found there.
+
 The needed SQL-Structures can be found here: [https://github.com/flexmill/Data-structures](https://github.com/flexmill/Data-structures)
 
 ## fiware_connector_machiningcentre_tools
