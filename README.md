@@ -3,9 +3,11 @@
 
 In addition a video that describes the installation and the workflow of AMR-Control can be found in this repository.
 
+## FlexMill demonstration video
+A video that shows how the FlexMill - project is working can be found here: [Flexmill demonstration video](https://github.com/flexmill/Start-here---Overview/blob/main/FlexMill_Demonstration.mp4)
+
 ## Step by step tutorial-video
 [Step by step video](https://github.com/flexmill/Overview/blob/main/FlexMill_Installation.mp4)
-
 
 ## AMRControl
 [Link to the repository: https://github.com/flexmill/AMRControl](https://github.com/flexmill/AMRControl)
