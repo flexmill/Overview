@@ -1,4 +1,6 @@
 # Start here - Overview
+Within this Github Repository, the outcome of the so called FlexMill project stored. The main part of the project was the development of an automated tool provision process for machine tools by an autonomous mobile robot. The software for that robot can be found in the section “AMRControl” and is specifically programmed for the Protobot V2 from DALMA Robotics. Furthermore, the industrialization process including 3D modelling, drawing generation and NC code generation for adapter end production was automatized. The respective results, which are described in the following chapters, can also be downloaded for this purpose.
+
 # Repository list and description in alphabetical order
 
 In addition a video that describes the installation and the workflow of AMR-Control can be found in this repository.
